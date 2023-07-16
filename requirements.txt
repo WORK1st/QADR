@@ -1,0 +1,28 @@
+brotlipy==0.7.0
+certifi @ file:///croot/certifi_1671487769961/work/certifi
+cffi @ file:///croot/cffi_1670423208954/work
+charset-normalizer @ file:///tmp/build/80754af9/charset-normalizer_1630003229654/work
+cryptography @ file:///croot/cryptography_1677533068310/work
+flit_core @ file:///opt/conda/conda-bld/flit-core_1644941570762/work/source/flit_core
+future @ file:///croot/future_1677599870788/work
+idna @ file:///croot/idna_1666125576474/work
+numpy @ file:///home/conda/feedstock_root/build_artifacts/numpy_1649806299270/work
+pandas==1.2.3
+Pillow==9.4.0
+pip==22.3.1
+pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
+pyOpenSSL @ file:///croot/pyopenssl_1677607685877/work
+PySocks @ file:///tmp/build/80754af9/pysocks_1594394576006/work
+python-dateutil @ file:///tmp/build/80754af9/python-dateutil_1626374649649/work
+pytz @ file:///croot/pytz_1671697431263/work
+PyYAML @ file:///croot/pyyaml_1670514731622/work
+requests @ file:///opt/conda/conda-bld/requests_1657734628632/work
+setuptools==59.8.0
+six @ file:///tmp/build/80754af9/six_1644875935023/work
+torch==1.12.1+cu113
+torchaudio==0.12.1+cu102
+torchvision==0.13.1+cu113
+tqdm @ file:///opt/conda/conda-bld/tqdm_1664392687731/work
+typing_extensions @ file:///croot/typing_extensions_1669924550328/work
+urllib3 @ file:///croot/urllib3_1673575502006/work
+wheel==0.38.4
